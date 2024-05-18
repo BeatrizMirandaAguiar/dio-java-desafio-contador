@@ -1,6 +1,7 @@
 # Desafio de Controle de Fluxo
 
-Desafio do Bootcamp Santander 2024 - Backend com Java da [DIO](https://www.dio.me/en)
+Desafio do Bootcamp Santander 2024 - Backend com Java da [DIO](https://www.dio.me/en).
+
 Para saber mais informações sobre o desafio, acesse https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo
 
 #### Autora:
